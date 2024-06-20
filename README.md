@@ -6,7 +6,18 @@ It **could** be useful
 1. for me to keep track of how much I fucked around.
 2. as a list of bookmarks for someone who wants to fuck around more conveniently and efficiently.
 
-Jun-19th-2024, Wed
+#### Jun-19th-2024, Wed
+
+**stable diffusion 3**
+https://arxiv.org/pdf/2403.03206
+huggingface: https://github.com/huggingface/diffusers/blob/main/src/diffusers/models/transformers/transformer_sd3.py
+
+**DiT**
+original DiT colab: https://colab.research.google.com/github/facebookresearch/DiT/blob/main/run_DiT.ipynb
+original DiT githut: https://github.com/facebookresearch/DiT
+DiT project website: https://www.wpeebles.com/DiT.html
+
+**gpu failure at scale**
 ```
 Under these heavy workload conditions, as seen during genAI training in AI clusters, GPUs typically have a mean time between failures (MTBF) of 20,000 to 30,000 hours. That means that, in a cluster of 24,000 GPUs, one GPU may fail every hour and 15 minutes. This figure does not even include the failures of network switches and interconnects.
  
